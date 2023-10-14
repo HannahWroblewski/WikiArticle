@@ -1,0 +1,11 @@
+.paragraphs {
+    width: 650px;
+
+}
+
+.contents{
+    background-color: lightblue;
+    border: solid 1px rgb(81, 81, 192);
+    width: 25%;
+    
+}
